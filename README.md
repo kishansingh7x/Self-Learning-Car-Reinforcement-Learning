@@ -99,7 +99,7 @@ Final-year / major projects.
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/<your-username>/Self-Learning-Car-Reinforcement-Learning.git
+git clone https://github.com/<kishansingh7x>/Self-Learning-Car-Reinforcement-Learning.git
 cd Self-Learning-Car-Reinforcement-Learning
 
 2️⃣ Install dependencies
